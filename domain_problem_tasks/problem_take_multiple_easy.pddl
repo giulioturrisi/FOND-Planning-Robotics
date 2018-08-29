@@ -1,0 +1,6 @@
+(define (problem youbot)
+  (:domain youbot-domain)
+  (:objects start trash ws1 ws2 h - ws mela banana tea - object)
+  (:init (emptyhand) (not(detected tea)) (not(detected mela)) (r-at start) (h-at h) (on-ws tea ws1) (on-ws mela ws2) (on-ws banana ws2) (not(have-human tea)) (not(have-human mela)))
+  (:goal (and (r-at start) (have-human mela) (have-human tea)))
+)

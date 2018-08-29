@@ -1,0 +1,26 @@
+
+domain_problem_tasks/action\.map
+
+domain_problem_tasks/conditions\.py
+
+domain_problem_tasks/domain \(copia\)\.pddl
+
+domain_problem_tasks/graph\.dot
+
+domain_problem_tasks/graph\.png
+
+domain_problem_tasks/human_policy\.out
+
+domain_problem_tasks/output
+
+domain_problem_tasks/output\.sas
+
+domain_problem_tasks/plan_numbers_and_cost
+
+domain_problem_tasks/policy\.fsap
+
+domain_problem_tasks/policy\.out
+
+domain_problem_tasks/problem \(copia\)\.pddl
+
+domain_problem_tasks/sas_plan
